@@ -7,4 +7,4 @@
 
 ##如何预览
 
-点击
+点击 https://zlm3975.github.io/blog/即可预览
